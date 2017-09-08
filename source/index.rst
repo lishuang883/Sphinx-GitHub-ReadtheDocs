@@ -17,6 +17,8 @@ Sphinx 是一个基于 Python 的文档生成工具，最早只是用来生成 P
  * 精确的语法高亮: 基于 Pygments 自动生成语法高亮
 https://zh-sphinx-doc.readthedocs.io/en/latest/contents.html
 
+一个github库可以存放多个Sphinx工程，在readthedocs里，管理-高级设置填写哪个文档下的conf.py的路径就可以读哪个文档，也就是说可以在readthedocs建立多个项目，每个项目可以填写同一个github库，只是每个项目有不同的conf.py的路径
+
 参考文档：（由于没有接触过，所以当时搭建的我很懵逼，只是参考了一下的文章，各个文章里都是缺少细节，但是都互相补缺，还冗杂，所以整理一下步骤，供哥哥姐姐们方便阅读，也有可能冗杂，所以见谅）
 1. http://www.cnblogs.com/yanhuiw/p/3756085.html
 2. http://blog.csdn.net/weishantc/article/details/45480917
