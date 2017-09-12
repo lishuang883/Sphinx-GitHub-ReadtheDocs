@@ -20,12 +20,12 @@ https://zh-sphinx-doc.readthedocs.io/en/latest/contents.html
 一个github库可以存放多个Sphinx工程，在readthedocs里，管理-高级设置填写哪个文档下的conf.py的路径就可以读哪个文档，也就是说可以在readthedocs建立多个项目，每个项目可以填写同一个github库，只是每个项目有不同的conf.py的路径
 
 参考文档：（由于没有接触过，所以当时搭建的我很懵逼，只是参考了一下的文章，各个文章里都是缺少细节，但是都互相补缺，还冗杂，所以整理一下步骤，供哥哥姐姐们方便阅读，也有可能冗杂，所以见谅）
-1. http://www.cnblogs.com/yanhuiw/p/3756085.html
-2. http://blog.csdn.net/weishantc/article/details/45480917
-3. http://blog.csdn.net/weishantc/article/details/46729103
-4 http://yidao620c.github.io/2017/01/22/fullstack/readthedoc.html
-5. http://www.jianshu.com/p/78e9e1b8553a
-6.https://www.ibm.com/developerworks/cn/opensource/os-sphinx-documentation/
+#. http://www.cnblogs.com/yanhuiw/p/3756085.html
+#. http://blog.csdn.net/weishantc/article/details/45480917
+#. http://blog.csdn.net/weishantc/article/details/46729103
+#. http://yidao620c.github.io/2017/01/22/fullstack/readthedoc.html
+#. http://www.jianshu.com/p/78e9e1b8553a
+#. https://www.ibm.com/developerworks/cn/opensource/os-sphinx-documentation/
 
 Contents:
 
